@@ -1,1 +1,1 @@
-This is a rendom password generator program written in python
+This is a random password generator program written in python
